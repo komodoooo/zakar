@@ -3,8 +3,7 @@
 Zakar is a small, unofficial openAI API Wrapper for GPT-3 and DALL-E2.
 Inspired by the greatest son of Allah named "Zakar".
 
-#Installation
-
+# Installation
 `sudo gem install zakar`
 
 ## Code examples
